@@ -1,3 +1,3 @@
 # courseratest
 coursera test reposeraty
-theme: jekyll-theme-minimal
+theme: jekyll-theme-Minimal
